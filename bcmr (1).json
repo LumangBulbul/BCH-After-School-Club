@@ -1,0 +1,30 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2026-09-08T14:38:23.251Z",
+  "registryIdentity": {
+    "name": "bcmr for BCH After School Club",
+    "description": "self-published bcmr for BCH After School Club"
+  },
+  "identities": {
+    "67e2fd77f7019d01a33124e04e4bacd453634c160ab7b2cb1d2b01be7dd25d9f": {
+      "2026-09-08T14:38:23.251Z": {
+        "name": "BCH After School Club",
+        "description": "The official utility token of the BCH After School Club, a very chill study club under the Supreme Student Council (2026–2027) at AMA Computer College - Naga Campus. $AFTER holds no monetary value and was minted mainly to give students hands-on exposure to the Bitcoin Cash network. Members earn $AFTER (which acts like point rewards) by attending weekly after-school study sessions and completing quick BCH quizzes, then use their accumulated tokens to bid in monthly budget-meal auction game.",
+        "token": {
+          "category": "67e2fd77f7019d01a33124e04e4bacd453634c160ab7b2cb1d2b01be7dd25d9f",
+          "symbol": "AFTER",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://github.com/LumangBulbul/BCH-After-School-Club/blob/main/after-token-icon.png?raw=true",
+          "web": "https://ssc-amacc-naga.gitbook.io"
+        }
+      }
+    }
+  }
+}
