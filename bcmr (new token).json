@@ -1,0 +1,34 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2026-11-07T10:00:36.119Z",
+  "registryIdentity": {
+    "name": "bcmr for BASC Auction Token",
+    "description": "self-published bcmr for BASC Auction Token"
+  },
+  "identities": {
+    "92bce4235c3ff7db98921b9acd2d236e3c69ced754e7d83397dea116e305652e": {
+      "2026-11-07T10:00:36.119Z": {
+        "name": "BASC Auction Token",
+        "description": "The official new utility token of the BCH After School Club, a very chill study club under the Supreme Student Council (2026-2027) at AMA Computer College - Naga Campus. BAT features an expanded 100M total supply (upgraded from the original 102,026 supply AFTER token). It holds no monetary value and is minted primarily to give students hands-on exposure on the Bitcoin Cash network. Members earn $BAT (which acts like point rewards) by attending weekly after-school study sessions and completing quick BCH quizzes, then use their accumulated tokens to bid in monthly budget-meal auction game.",
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/LumangBulbul/BCH-After-School-Club/refs/heads/main/BASC%20Token-Logo.png",
+          "web": "https://ssc-amacc-naga.gitbook.io",
+          "blog": "https://read.cash/s/bch-after-school-club-n6afqo",
+          "forum": "https://topics.cash/t/bch-after-school-club",
+          "telegram": "https://t.me/AMACC_SSC",
+          "twitter": "https://x.com/AMA_NAGA_SSC"
+        },
+        "token": {
+          "category": "92bce4235c3ff7db98921b9acd2d236e3c69ced754e7d83397dea116e305652e",
+          "symbol": "BAT",
+          "decimals": 0
+        }
+      }
+    }
+  }
+}
